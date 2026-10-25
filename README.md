@@ -17,7 +17,7 @@ when to follow up, when to escalate and when to file an RTI, with each document 
   top-issues list for the ward office. Letters quote the vote count. Needs a Firebase project, see
   [FIREBASE-SETUP.md](FIREBASE-SETUP.md). Until then it shows a labelled preview.
 - **Neighbour co-signing:** a share link (WhatsApp, native share with photo, or copy) opens the same
-  complaint pre-filled so neighbours can file their own.
+  complaint pre-filled so neighbours can file their own..
 - **City Console and Contractor app (prototype, sample data):** use **View as** in the header, or open
   `#city` and `#contractor`. Reports of the same category within 50 m merge into one issue, scored 0-100
   (severity, public demand, overdue, location risk, category risk) with weight sliders. Officials assign
